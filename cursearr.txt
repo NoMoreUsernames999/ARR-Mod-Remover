@@ -1,0 +1,89 @@
+AirSupport
+absentbydesign
+artisanintegrations
+artisanworkstumps
+artisanworktables
+alchemistry
+BNBGamingCore
+BNBGamingLib
+blocklayering
+bookworm
+BarrelsDrumsStorageAndMore
+betterchat
+BetterThirdPerson-Forge
+BetterInvalidSession
+BiblioCraft
+BiomesOPlenty
+camera
+CustomBackgrounds-MC
+CodeChickenLib
+ClientTweaks_
+CoFHCore
+CoFHWorld
+DefaultOptions_
+DimensionalControl
+dropt
+Drones
+EmberRootZoo
+erebusfix
+Farming in Rain - 
+FerretMod
+FoodEditorSA
+FTBUtilities
+FTBBackups
+FTBLib
+fancylamps
+FluxNetworks
+fossilsarcheology
+gamestagebooks
+gaspunk
+Gaspunk-Inhaler
+GiacomosBookshelf
+HardcoreRevival_
+Helicopter_Pack
+horse_tack
+ICBM-classic
+Immersive Vehicles
+JordkrigAirDrops
+journeymap
+LoadingScreens
+LostBooks-II
+livingchest
+lootblock
+minergolems
+minerva-library
+NiftyBlocks
+NoNVFlash
+PotionCore
+PTRLib
+Player Weight 
+PrimalCore
+PrimalTech
+pyrotech
+PortalGun
+RealisticExplosionPhysics
+RedstoneFlux
+R.A.G.E
+ReAuth
+redstonepaste
+ReWIRED
+supermartijn642configlib
+SubmergedExplosions
+Scavenge V
+Scavenge-GameStage V
+Scavenge-ReSkillable V
+Scavenge-Timing
+Scavenge-Baubles V
+SatisCraftory Pack 
+simpleplanes
+SubCraftica
+techguns
+TrashSlot_
+Triumph
+ThermalDynamics
+ThermalExpansion
+ThermalFoundation
+Useful Interior -
+WaterControlExtreme
+Waystones_
+zawa
